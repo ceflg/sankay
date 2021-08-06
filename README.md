@@ -1,5 +1,5 @@
 # sankay
-Plotly sankay example visualisation with highliightd line.
+Plotly sankay example visualisation with highlighted line.
 Matrix size 8 x 5
 
 
