@@ -1,5 +1,5 @@
 # sankay
-Plotly sankay example visualisation with highlighted line.
+Hardcoded plotly sankay example visualisation with highlighted example line.
 Matrix size 8 x 5
 
 
